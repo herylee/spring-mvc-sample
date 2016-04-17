@@ -6,3 +6,5 @@ __web.xml__
 __blog-servlet.xml__  
 Spring MVC的`DispatcherServlet`默认会加载`XXXX-servlet.xml`。文件前面的`XXXX`与`web.xml`
 中的`<servlet-name>`定义的一致。例子中为blog。
+
+Reference & Thx: [http://howtodoinjava.com/spring/spring-mvc/spring-mvc-hello-world-example/](http://howtodoinjava.com/spring/spring-mvc/spring-mvc-hello-world-example/)
